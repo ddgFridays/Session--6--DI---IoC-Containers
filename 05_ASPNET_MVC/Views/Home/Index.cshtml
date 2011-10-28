@@ -1,0 +1,12 @@
+﻿@model List<TodoList.WithIoC.Models.TodoListItem>
+
+@{
+    ViewBag.Title = "title";
+}
+
+<h2>Todo List Items</h2>
+
+@foreach (var item in Model)
+{
+    <p>@item.Description by the @item.DoBy.ToShortDateString()</p>
+}
