@@ -1,0 +1,11 @@
+C:\Users\alexander.webber\documents\visual studio 2010\Projects\DIandIoCDemo\01_What_Is_Dependency_Injection\bin\x86\DI\TodoListDB.sdf
+C:\Users\alexander.webber\documents\visual studio 2010\Projects\DIandIoCDemo\01_What_Is_Dependency_Injection\bin\x86\DI\01_What_Is_Dependency_Injection.exe.config
+C:\Users\alexander.webber\documents\visual studio 2010\Projects\DIandIoCDemo\01_What_Is_Dependency_Injection\bin\x86\DI\01_What_Is_Dependency_Injection.exe
+C:\Users\alexander.webber\documents\visual studio 2010\Projects\DIandIoCDemo\01_What_Is_Dependency_Injection\bin\x86\DI\01_What_Is_Dependency_Injection.pdb
+C:\Users\alexander.webber\documents\visual studio 2010\Projects\DIandIoCDemo\01_What_Is_Dependency_Injection\bin\x86\DI\TodoList.WithDI.dll
+C:\Users\alexander.webber\documents\visual studio 2010\Projects\DIandIoCDemo\01_What_Is_Dependency_Injection\bin\x86\DI\TodoList.WithoutDI.dll
+C:\Users\alexander.webber\documents\visual studio 2010\Projects\DIandIoCDemo\01_What_Is_Dependency_Injection\bin\x86\DI\TodoList.WithDI.pdb
+C:\Users\alexander.webber\documents\visual studio 2010\Projects\DIandIoCDemo\01_What_Is_Dependency_Injection\bin\x86\DI\TodoList.WithoutDI.pdb
+C:\Users\alexander.webber\documents\visual studio 2010\Projects\DIandIoCDemo\01_What_Is_Dependency_Injection\obj\x86\DI\ResolveAssemblyReference.cache
+C:\Users\alexander.webber\documents\visual studio 2010\Projects\DIandIoCDemo\01_What_Is_Dependency_Injection\obj\x86\DI\01_What_Is_Dependency_Injection.exe
+C:\Users\alexander.webber\documents\visual studio 2010\Projects\DIandIoCDemo\01_What_Is_Dependency_Injection\obj\x86\DI\01_What_Is_Dependency_Injection.pdb

@@ -1,0 +1,5 @@
+C:\Users\alexander.webber\documents\visual studio 2010\Projects\DIandIoCDemo\TodoList.WithDI\bin\DI\TodoList.WithDI.dll
+C:\Users\alexander.webber\documents\visual studio 2010\Projects\DIandIoCDemo\TodoList.WithDI\bin\DI\TodoList.WithDI.pdb
+C:\Users\alexander.webber\documents\visual studio 2010\Projects\DIandIoCDemo\TodoList.WithDI\obj\DI\ResolveAssemblyReference.cache
+C:\Users\alexander.webber\documents\visual studio 2010\Projects\DIandIoCDemo\TodoList.WithDI\obj\DI\TodoList.WithDI.dll
+C:\Users\alexander.webber\documents\visual studio 2010\Projects\DIandIoCDemo\TodoList.WithDI\obj\DI\TodoList.WithDI.pdb
